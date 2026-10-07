@@ -2,7 +2,7 @@
 
 A clean, simple task manager built with React and TypeScript. No backend, your tasks are saved in your browser.
 
-**[Live demo](https://YOUR-LIVE-LINK.vercel.app)**
+**[Live demo](https://task-manager-shahd-ae89.vercel.app/)**
 
 ![TaskManager screenshot](screenshots/home.png)
 
